@@ -46,7 +46,7 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/yonas1916/yonas1916/output/snake.svg)
+
 
 
 ###
